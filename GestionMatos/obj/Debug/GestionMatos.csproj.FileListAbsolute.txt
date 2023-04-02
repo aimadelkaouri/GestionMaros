@@ -1,0 +1,15 @@
+C:\Users\aimad\source\repos\GestionMatos\GestionMatos\bin\Debug\GestionMatos.exe.config
+C:\Users\aimad\source\repos\GestionMatos\GestionMatos\bin\Debug\GestionMatos.exe
+C:\Users\aimad\source\repos\GestionMatos\GestionMatos\bin\Debug\GestionMatos.pdb
+C:\Users\aimad\source\repos\GestionMatos\GestionMatos\obj\Debug\GestionMatos.csproj.AssemblyReference.cache
+C:\Users\aimad\source\repos\GestionMatos\GestionMatos\obj\Debug\GestionMatos.csproj.SuggestedBindingRedirects.cache
+C:\Users\aimad\source\repos\GestionMatos\GestionMatos\obj\Debug\GestionMatos.Form1.resources
+C:\Users\aimad\source\repos\GestionMatos\GestionMatos\obj\Debug\GestionMatos.Properties.Resources.resources
+C:\Users\aimad\source\repos\GestionMatos\GestionMatos\obj\Debug\GestionMatos.csproj.GenerateResource.cache
+C:\Users\aimad\source\repos\GestionMatos\GestionMatos\obj\Debug\GestionMatos.csproj.CoreCompileInputs.cache
+C:\Users\aimad\source\repos\GestionMatos\GestionMatos\obj\Debug\GestionMatos.exe
+C:\Users\aimad\source\repos\GestionMatos\GestionMatos\obj\Debug\GestionMatos.pdb
+C:\Users\aimad\source\repos\GestionMatos\GestionMatos\obj\Debug\GestionMatos.client.resources
+C:\Users\aimad\source\repos\GestionMatos\GestionMatos\obj\Debug\GestionMatos.site.resources
+C:\Users\aimad\source\repos\GestionMatos\GestionMatos\obj\Debug\GestionMatos.type.resources
+C:\Users\aimad\source\repos\GestionMatos\GestionMatos\obj\Debug\GestionMatos.materiel.resources
